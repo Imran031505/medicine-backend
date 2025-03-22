@@ -1,1 +1,1 @@
-# medicine-backend
+# medicine-reminder-backend
